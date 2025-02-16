@@ -25,4 +25,5 @@ JavaScript
 Live Demo - https://sanjanashashidhar.github.io/travelia.com/
 
 ![image alt](https://github.com/sanjanashashidhar/travelia.com/blob/e7dc5b06f295fee93ee2c7e19f90ac09745e38d0/11.png)
+![image alt](https://github.com/sanjanashashidhar/travelia.com/blob/a5b315c4fded9e3a2cc62c8e115c6d7e645efb90/22.png)
 
