@@ -1,7 +1,7 @@
 # travelia.com
-HolidayPlan - Your Travel Companion
+Travelia - Your Travel Companion
 
-HolidayPlan is a simple, user-friendly travel website designed to help users explore breathtaking destinations, get practical travel tips, and plan their dream vacations with ease. This project is a collaborative effort by a team of two developers.
+Travelia is a simple, user-friendly travel website designed to help users explore breathtaking destinations, get practical travel tips, and plan their dream vacations with ease. This project is a collaborative effort by a team of two developers.
 
 🚀 Features
 
